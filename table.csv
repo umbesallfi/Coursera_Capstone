@@ -1,0 +1,126 @@
+,Street,Size,Rooms,Furnished,Drink Place,Entertainment Place,Food Place,Lodging Place,Shop,Transport Spot,Rent
+0,2e Buurkerksteeg,110,2,1,18,10,41,3,20,0,1850
+1,3e Buurkerksteeg,77,1,0,18,11,42,3,18,0,1340
+2,Abstederdijk,75,2,0,6,7,6,0,9,0,1250
+3,Achter St.-Pieter,50,1,0,19,13,40,3,18,0,2457
+4,Adelaarstraat,75,2,0,0,2,5,1,1,1,1495
+5,Adriaanstraat,120,3,1,4,3,16,0,7,1,1895
+6,Adriaen van Ostadelaan,75,2,0,2,2,3,0,2,4,1700
+7,Agnietenstraat,102,1,1,9,8,9,0,8,0,1833
+8,Albert van Dalsumlaan,100,2,0,1,1,6,0,1,2,1450
+9,Alkhof,30,1,1,11,6,9,0,7,4,1095
+10,Andreashof,46,1,0,17,5,19,2,15,0,1200
+11,Arthur van Schendelstraat,92,2,0,10,2,5,0,8,0,1660
+12,Aziëlaan,95,2,1,0,1,4,0,4,0,1237
+13,Barnsteenlaan,100,4,1,2,1,6,0,2,0,1495
+14,Bellamystraat,124,3,0,9,5,12,3,3,0,3250
+15,Bernadottelaan,38,1,1,0,1,2,0,5,0,1000
+16,Biltstraat,100,2,0,7,6,24,1,8,0,1500
+17,Bolstraat,95,3,0,5,7,10,0,5,1,1695
+18,Bouwstraat,64,3,0,5,4,14,0,4,1,1595
+19,Briljantlaan,70,3,0,2,1,6,0,2,2,1700
+20,Buurkerkhof,62,1,0,18,9,41,3,20,0,1400
+21,Buys Ballotstraat,80,2,0,1,2,6,1,0,1,1997
+22,Carry van Bruggenstraat,72,2,0,9,1,5,1,8,0,1448
+23,Croeselaan,70,1,0,1,0,4,0,0,0,1531
+24,De Vooysplantsoen,75,2,0,0,1,2,0,2,3,1400
+25,Detmoldstraat,65,2,1,0,2,3,0,10,6,1375
+26,Domstraat,39,1,0,20,14,38,3,19,0,1187
+27,Dr. H.J. Lovinklaan,117,3,0,1,0,3,0,2,1,2200
+28,Duifstraat,100,3,0,9,5,12,3,3,0,1850
+29,Eligenhof,60,1,0,13,9,16,1,11,0,1750
+30,Emmalaan,60,1,1,1,1,1,1,0,0,1195
+31,Gansstraat,45,1,1,11,8,8,0,8,3,1250
+32,Geertekerkhof,121,3,0,13,7,13,1,11,0,1895
+33,Geertestraat,80,1,0,13,8,13,1,11,0,1350
+34,Gerard Noodtstraat,115,4,1,2,0,5,0,3,1,1625
+35,Griftstraat,75,2,1,2,2,8,0,2,2,1500
+36,Groenestraat,120,3,1,12,10,16,0,11,0,2195
+37,Groenmarktstraat,83,2,0,2,1,9,0,2,2,1882
+38,Hartingstraat,92,2,0,11,3,5,1,8,0,1565
+39,Heemstedelaan,88,1,0,0,3,1,0,4,3,1595
+40,Henriëtte Roland Holststraat,74,1,1,13,5,9,0,8,3,1420
+41,Herculeslaan,128,2,1,2,3,1,0,0,2,1972
+42,Hollandse Toren,130,2,0,16,10,41,4,14,0,1689
+43,Homeruslaan,90,2,1,3,3,9,0,3,1,1850
+44,Huizingalaan,40,1,0,0,3,7,0,1,3,1950
+45,Ina Boudier-Bakkerlaan,40,1,0,0,1,4,0,3,3,1122
+46,Jacob van der Borchstraat,55,1,0,2,0,5,0,3,1,1350
+47,Jacobijnenstraat,67,1,0,19,14,40,4,11,0,1500
+48,Jan van den Doemstraat,56,2,2,2,0,3,0,2,0,1300
+49,Janskerkhof,120,3,2,20,15,42,3,14,0,2300
+50,Jansveld,65,1,0,19,14,42,4,14,0,1650
+51,Jeruzalemstraat,55,1,0,17,15,34,2,17,1,1425
+52,Johan van Oldenbarneveltlaan,210,4,0,5,9,14,0,5,0,2750
+53,Justus van Effenstraat,31,1,1,11,7,9,1,8,0,825
+54,Jutfaseweg,43,1,1,0,1,4,0,1,3,1050
+55,Kerkstraat,70,2,1,9,6,18,0,7,0,1575
+56,Korte Jansstraat,123,3,0,19,15,42,3,17,0,2350
+57,Korte Jufferstraat,75,2,0,15,13,34,3,14,0,1450
+58,Lamérislaan,119,5,0,0,1,0,0,2,0,1600
+59,Lange Jufferstraat,68,2,1,15,13,35,3,14,0,1600
+60,Lange Nieuwstraat,79,1,0,14,11,19,1,13,0,1875
+61,Lange Smeestraat,102,2,1,15,9,21,1,15,0,1747
+62,Livingstonelaan,93,2,0,0,2,2,0,2,0,1497
+63,Loderlaan,71,2,1,0,2,1,0,1,1,1375
+64,M.A. de Ruyterstraat,169,4,1,1,3,10,0,1,3,2500
+65,Maliebaan,85,1,1,3,8,11,0,6,0,1622
+66,Maliestraat,82,1,0,1,2,9,0,4,0,1971
+67,Mgr. van de Weteringstraat,82,2,1,2,3,10,0,8,1,2000
+68,Minstraat,70,2,0,1,5,1,0,2,2,1800
+69,Moreelsehoek,70,1,2,12,8,35,3,9,1,1118
+70,Mulderstraat,55,2,0,7,6,17,0,7,0,1500
+71,Neude,100,2,0,19,14,40,4,17,0,3000
+72,Nicolaas Beetsstraat,72,2,1,8,2,3,1,3,0,1595
+73,Nieuwe Koekoekstraat,60,2,0,7,4,12,2,2,0,1495
+74,Nieuwegracht,54,1,0,17,17,36,3,18,0,2675
+75,Nieuwegracht aan de Werf,58,1,0,14,14,15,0,7,0,1275
+76,Nieuwekade,72,2,0,11,8,15,2,2,1,1590
+77,Nieuwekamp,80,2,0,11,13,19,0,8,0,1695
+78,Nobelstraat,140,3,1,19,15,38,3,17,0,1800
+79,Obbinklaan,95,3,2,0,0,0,0,2,0,1295
+80,Olof Palmelaan,85,2,0,0,2,2,1,0,1,1595
+81,Oosterkade,110,3,0,11,5,9,0,7,4,1675
+82,Oranje-Nassaulaan,110,4,0,0,2,3,0,10,6,1675
+83,Oudegracht,87,1,0,17,13,25,2,13,0,1929
+84,Oudegracht aan de Werf,148,2,1,20,10,41,2,19,0,1920
+85,Oudkerkhof,65,2,1,21,14,37,3,20,0,1495
+86,Oudwijkerveldstraat,62,1,1,5,4,10,1,5,1,1350
+87,Pal Maleterstraat,100,3,0,0,1,0,0,0,1,1546
+88,Parkstraat,125,1,0,13,11,27,1,13,1,2250
+89,Prins Hendriklaan,65,1,0,1,2,8,0,2,0,1500
+90,Prof. Zonnebloemlaan,90,2,0,0,1,0,0,2,0,1425
+91,Ridderschapstraat,71,1,1,12,7,24,2,9,0,1628
+92,Rolderdiephof,100,2,0,1,1,6,0,2,1,1482
+93,Rubenslaan,80,2,0,0,2,2,0,1,3,1400
+94,Springweg,86,2,0,18,10,22,2,12,0,1800
+95,Stationsstraat,95,2,0,14,10,43,1,12,1,1750
+96,Steenweg,55,1,0,19,10,41,3,20,0,1779
+97,Tolsteegplantsoen,96,3,1,4,1,9,0,2,2,1495
+98,Tolsteegsingel,68,1,0,8,5,8,0,7,3,1566
+99,Troosterhof,75,2,2,0,0,0,0,2,0,1500
+100,Trumanlaan,73,2,0,0,1,2,0,5,0,1425
+101,Van Bijnkershoeklaan,85,3,1,0,1,0,0,4,0,1400
+102,Van Eysingalaan,84,2,0,0,2,0,0,3,1,1375
+103,Van Heuven Goedhartlaan,23,1,2,0,0,3,1,1,0,595
+104,Van Humboldtstraat,40,1,0,4,2,8,1,2,1,1395
+105,Van Kleffenslaan,29,1,2,0,0,3,1,1,0,760
+106,Van Lidth de Jeudestraat,184,5,2,8,7,17,0,8,0,2200
+107,Van Vollenhovenlaan,77,2,1,0,1,2,0,5,1,1250
+108,Van der Helststraat,70,2,1,3,1,4,0,1,1,1275
+109,Vinkenburgstraat,55,1,1,19,13,39,4,16,0,1275
+110,Vondellaan,55,1,2,3,1,5,0,5,3,1150
+111,Voorsterbeeklaan,102,1,0,1,1,6,0,2,1,1750
+112,Voorstraat,71,1,0,20,13,40,4,15,0,2150
+113,Vredenburg,70,1,1,18,11,40,4,13,1,1245
+114,Wagendwarsstraat,50,1,1,5,5,9,0,5,1,1500
+115,Wageningseberg,95,3,1,0,0,1,0,0,3,1600
+116,Wagenstraat,60,1,0,5,6,11,0,6,1,1500
+117,Weerdsingel O.Z.,51,1,0,12,7,19,3,4,0,2199
+118,Willem Barentszstraat,30,1,0,1,2,6,1,0,1,1060
+119,Willem van Noortplein,70,1,1,2,2,8,0,1,1,1395
+120,Wittevrouwensingel,50,1,1,8,4,17,1,3,0,1395
+121,Wolter Heukelslaan,200,3,0,5,2,9,1,5,0,3000
+122,Wolvenplein,165,4,1,12,7,24,1,8,0,3750
+123,Zakkendragershof,81,2,0,19,13,40,4,14,0,1595
+124,Zuilenstraat,100,1,0,16,15,20,1,15,0,2000
